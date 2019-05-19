@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Arnaud.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="8"/>
+        <CursorPos X="54" Y="21"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="Arnaud.lpr"/>
+        <Caret Line="2"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Arnaud.lpr"/>
+        <Caret Line="12" Column="16" TopLine="3"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Arnaud.lpr"/>
+        <Caret Line="21" Column="52" TopLine="6"/>
+      </Position3>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

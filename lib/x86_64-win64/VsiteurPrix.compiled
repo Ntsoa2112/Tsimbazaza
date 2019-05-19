@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1286865565"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiD:\Etudes\L1 MM\Initiation à la programmation\Lazarus et Pascal\Mini projet\lib\x86_64-win64&quot; &quot;-FuD:\Etudes\L1 MM\Initiation à la programmation\Lazarus et Pascal\Mini projet\&quot; &quot;-FUD:\Etudes\L1 MM\Initiation à la programmation\Lazarus et Pascal\Mini projet\lib\x86_64-win64\&quot; VsiteurPrix.pas"/>
+</CONFIG>

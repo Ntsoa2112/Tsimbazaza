@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1286865565"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq &quot;-FiD:\Etudes\L1 MM\Initiation à la programmation\Lazarus et Pascal\Mini projet\lib\x86_64-win64&quot; -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 &quot;-FuD:\Etudes\L1 MM\Initiation à la programmation\Lazarus et Pascal\Mini projet\&quot; &quot;-FUD:\Etudes\L1 MM\Initiation à la programmation\Lazarus et Pascal\Mini projet\lib\x86_64-win64\&quot; -dLCL -dLCLwin32 Interface.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
